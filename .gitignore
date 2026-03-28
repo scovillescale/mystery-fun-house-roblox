@@ -1,0 +1,16 @@
+# Place files (build locally or open from Studio)
+*.rbxl
+*.rbxlx
+
+# Roblox Studio lock files
+*.rbxlx.lock
+*.rbxl.lock
+
+sourcemap.json
+
+# OS / editor
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
