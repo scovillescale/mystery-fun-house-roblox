@@ -3,6 +3,11 @@
 registry = "test"
 
 [[package]]
+name = "elttob/fusion"
+version = "0.3.0"
+dependencies = []
+
+[[package]]
 name = "evaera/promise"
 version = "4.0.0"
 dependencies = []
@@ -10,4 +15,4 @@ dependencies = []
 [[package]]
 name = "scovillescale/mystery-fun-house"
 version = "0.1.0"
-dependencies = [["Promise", "evaera/promise@4.0.0"]]
+dependencies = [["Fusion", "elttob/fusion@0.3.0"], ["Promise", "evaera/promise@4.0.0"]]

@@ -8,6 +8,7 @@ authors = ["Weavervilles / Emmett Quinn Scoville"]
 
 [dependencies]
 Promise = "evaera/promise@4"
+Fusion = "elttob/fusion@0.3.0"
 
 [server-dependencies]
 
