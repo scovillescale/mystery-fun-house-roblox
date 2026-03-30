@@ -8,6 +8,9 @@
 
 sourcemap.json
 
+# Wally (run `wally install` after clone)
+Packages/
+
 # OS / editor
 .DS_Store
 Thumbs.db
